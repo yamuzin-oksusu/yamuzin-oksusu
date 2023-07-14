@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm majored in Business Administration and Applied Statistics at Chung Ang University.\
+🎓 &nbsp;I majored in Business Administration and Applied Statistics at Chung Ang University.\
 🌱 &nbsp;I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))
 
 ### 🛠 &nbsp;Tech Stack
