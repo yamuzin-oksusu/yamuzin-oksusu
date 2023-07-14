@@ -4,8 +4,11 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm majored in Business Administration and Applied Statistics at Chung Ang University.\
-🌱 &nbsp;I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))\
+🌱 &nbsp;I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <!--
 **yamuzin-oksusu/yamuzin-oksusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +18,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ### Hi there 👋
 - 🔭 I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))
