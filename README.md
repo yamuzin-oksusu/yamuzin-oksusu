@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and create new solutions in business by techs.\
 🎓 &nbsp;I majored in Business Administration and Applied Statistics at Chung Ang University.\
 🌱 &nbsp;I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))\
 ✉️ &nbsp;You can shoot me an email at minju9918@naver.com! I'll try to respond as soon as I can.\
@@ -12,7 +12,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-
 
 <!--
 **yamuzin-oksusu/yamuzin-oksusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
