@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and create new solutions in business by techs.\
 🎓 &nbsp;I majored in Business Administration and Applied Statistics at Chung Ang University.\
-🌱 &nbsp;I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))\
+🌱 &nbsp;I’m currently in SSAFY([Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))
 
 <!--✉️ &nbsp;You can shoot me an email at minju9918@naver.com! I'll try to respond as soon as I can.\-->
 <!--📄 &nbsp;Please have a look at my ([Profile](https://www.linkedin.com/in/minjoo-kim-6a0b88217)) for more details about me. I'm open to feedback and suggestions!-->
