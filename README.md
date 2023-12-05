@@ -13,10 +13,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=R&logoColor=276DC3)
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yamuzin-oksusu)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yamuzin-oksusu)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **yamuzin-oksusu/yamuzin-oksusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
