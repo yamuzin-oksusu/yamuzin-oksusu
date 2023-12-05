@@ -11,6 +11,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![JavaScript]([https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=276DC3](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
